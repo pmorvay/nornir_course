@@ -1,0 +1,16 @@
+---
+localhost:
+  hostname: localhost
+  platform: ios
+  groups:
+    - 'ios'
+  data:
+    dns1: '8.8.8.8'
+
+
+
+localhost1:
+  hostname: localhost1
+  platform: ios
+  groups:
+    - 'ios'

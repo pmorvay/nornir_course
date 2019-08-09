@@ -110,3 +110,6 @@ venv.bak/
 # Nornir specific things
 nornir.log
 */nornir.log
+
+# Inventory to have more environments
+inventory/
